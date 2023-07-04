@@ -1,4 +1,10 @@
-header {
-    blackground-color:rgb(112, 25, 87);
-    color:white
+body{
+    background-color:rgb(250, 7, 218);
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding: 24px 0;
+    cabeçalho-imagem {width: 10%;}
+    escola-imagem {width:30%;}
 }
